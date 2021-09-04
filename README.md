@@ -1,4 +1,4 @@
-## Welcome to my profile, i'm Brayan Frank
+## Welcome to my profile, i'm Brayan Frank!
 
 - 🔭 I’m currently working on **quality assurance**
 - 🌱 I’m currently learning **nodejs** and **mongodb**
