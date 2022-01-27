@@ -1,7 +1,7 @@
 ## Welcome to my profile, i'm Brayan Frank!
 
 - 🔭 I’m currently working on **quality assurance**
-- 🌱 I’m currently learning **nodejs** and **mongodb**
+- 🌱 I’m currently learning **nodejs**, **react** and **mongodb**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brauuu&show_icons=true&theme=monokai" />
