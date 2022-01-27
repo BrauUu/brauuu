@@ -4,9 +4,10 @@
 - 🌱 I’m currently learning **nodejs**, **react** and **mongodb**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brauuu&show_icons=true&theme=monokai" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brauuu&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauuu&layout=compact&theme=dark" />
 </a>
 <div style="display: inline-block">
   <img align="center" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"></img>
