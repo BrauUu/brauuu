@@ -13,6 +13,3 @@
   <img align="center" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"></img>
   <img align="center" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"></img>
 </div>
- 
-
-
