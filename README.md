@@ -7,7 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brauuu&show_icons=true&theme=monokai" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauuu&layout=compact&theme=monokai" />
 </a>
 <div style="display: inline-block">
   <img align="center" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"></img>
