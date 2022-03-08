@@ -10,6 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauuu&layout=compact&theme=dark" />
 </a>
 <div style="display: inline-block">
-  <img align="center" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"></img>
-  <img align="center" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"></img>
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"></img>
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"></img>
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></img>
+  <img align="center" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png"></img>
 </div>
