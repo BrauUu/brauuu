@@ -1,17 +1,22 @@
-## Welcome to my profile, i'm Brayan Frank!
+<h1 align="center"> Hi, i'm BrauUu, nice to see you here! </h1>
 
-- 🔭 I’m currently working on **quality assurance**
-- 🌱 I’m currently learning **nodejs**, **react**, **mongodb** and **cypress**
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brauuu&show_icons=true&theme=dark" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauuu&layout=compact&theme=dark" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauuu&layout=compact&theme=dark&hide_border=enabled" />
 </a>
-<div style="display: inline-block">
-  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"></img>
-  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"></img>
-  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></img>
-  <img align="center" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png"></img>
+
+<div align="left">
+  <div>
+    <b>Name:</b> Brayan Frank Soares Maciel<br>
+    <b>Age:</b> 21 years old<br>
+    <b>Profession:</b> Quality Analist<br>
+    <b>Passion:</b> Games, Technology and Outdoor activities<br>
+  </div>
+  <h2>I'm currently learning:</h2>
+  <div style="display: inline-block">
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-48484b?style=flat-square&logo=cypress&logoColor=white" />
+  </div>
 </div>
+
