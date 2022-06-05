@@ -11,7 +11,7 @@
     <b>Profession:</b> Quality Analist<br>
     <b>Passion:</b> Games, Technology and Outdoor activities<br>
   </div>
-  <h2>I'm currently learning:</h2>
+  <h3>I'm currently learning:</h3>
   <div style="display: inline-block">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
