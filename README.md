@@ -2,7 +2,7 @@
 
 <div align="right">
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauuu&layout=compact&theme=radical&hide_border=enabled&langs_count=8" />
+    <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauuu&layout=compact&theme=radical&hide_border=enabled&langs_count=8" />
   </a>
 </div>
 
@@ -11,6 +11,7 @@
     My name is Brayan Frank Soares Maciel
     I'm 21 years old
     I currently working as Quality Analist at Opinion Box 
+    
 ### I'm currently learning:
 ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=333)
