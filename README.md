@@ -8,9 +8,10 @@
 
 <div align="left">
     
-    My name is Brayan Frank Soares Maciel
+    My name is Brayan Frank
     I'm 23 years old
     I currently working as Quality Analist at Opinion Box 
+    Always available for new oportunities
     
 ### I'm currently learning:
 ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
