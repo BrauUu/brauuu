@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, i'm BrauUu! </h1>
+<h1 align="center"> Hi, i'm Brauuu! </h1>
 
 <!--<div align="right">
   <a href="https://github.com/anuraghazra/convoychat">
@@ -10,7 +10,8 @@
     
     My name is Brayan Frank
     I'm 24 years old
-    I currently working as Quality Analist at Opinion Box 
+    Looking for an opportunity as a Software Developer
+    I'm currently working as Quality Analist at Opinion Box 
     Always available for new oportunities
     
 ### I'm currently learning:
