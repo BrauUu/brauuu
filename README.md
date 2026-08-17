@@ -9,7 +9,7 @@
 <div align="left">
     
     My name is Brayan Frank
-    I'm 24 years old
+    I'm 25 years old
     Looking for an opportunity as a Software Developer
     I'm currently working as Quality Analist at Opinion Box 
     Always available for new oportunities
